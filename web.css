@@ -1,0 +1,77 @@
+body
+{
+    background-image: url(dri.webp);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+#txt
+{
+    text-align: center;
+    font-weight: 100px;
+    font-size: 25px;
+    color: white;
+    border:3px;
+    border-radius: 33px;
+    border-style: none;
+    background-color: rgb(0,0,0,0.4);
+    width: 500px;
+    margin: auto;
+    margin-top: 150px;
+}
+#txt2
+{
+    text-align: center;
+    font-size: 25px;
+    color:white;
+    width: 500px;
+    margin: auto;
+    margin-top: 10px;
+    position: relative;
+    top: 15px;
+    padding: 25px;
+    text-decoration: underline;
+}
+#track1
+{
+    color:white;
+    margin-left: 80px;
+    font-size: 30px;
+    font-weight: 300px;
+    margin-left: 345px;
+    position: relative;
+    top: 20px;
+    left: 83px;
+    
+}
+#submit
+{
+    font-size: x-large;
+    text-align: center;
+    position: relative;
+    left: 427px;
+    top: 35px;
+    border: 2px solid mediumspringgreen;
+    border-radius: 10px;
+    background-color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    padding: 5px;
+    width: 90px;
+}
+#submit:hover
+{
+    color: black;
+
+}
+#firstbox
+{
+    color: rgb(0, 0, 0);
+    margin-left: 80px;
+    font-size: 15px;
+    font-weight: 30px;
+    position: relative;
+    left: 43px;
+    top: 19px;
+}
